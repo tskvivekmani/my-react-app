@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    text-shadow: 10px 7px 20px #AFA;
+    text-transform: uppercase;
+}
+
+nav li {
+    background-color: #666;
+    list-style-type: none;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+
+li a{
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    display: block;
+    text-decoration: none;
+    height: 30px;
+}
+
+li a:hover{
+    display: block;
+    background-color: #000;
+}

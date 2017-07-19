@@ -13,11 +13,14 @@ export default class App extends Component{
         return(
             <Router>
                 <div>
-                  <header><h1>TSK India</h1></header>
+                  <h1>TSK India</h1>
                   <nav>
-                    <li><Link to="/">Login</Link></li>
-                    <li><Link to="/home">Home</Link></li>
+                    <li><Link to="/">Home</Link></li>
+                    <li><Link to="/home">About</Link></li>
+                    <li><Link to="/">Products</Link></li>
+                    <li><Link to="/home">Reach Us</Link></li>
                   </nav>
+                  <br/>
                   <hr/>
                   <Route exact path="/" component={Login}/>
                   <Route path="/home" component={Home}/>
