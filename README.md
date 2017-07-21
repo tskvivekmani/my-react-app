@@ -5,8 +5,8 @@
 
 ## Git Pulling steps:
 * git add <files/folders to push>
-* git commit -am "Commit comments"
-* git push <git repo> <branch>
+* git pull <git repo> <branch>
+* git checkout <latest commit string> -> To pull the specified commit
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
