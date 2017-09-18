@@ -1,10 +1,11 @@
+https://travis-ci.org/tskvivekmani/my-react-app.svg?branch=master
+
 ## Git Pushing steps:
 * git add <files/folders to push>
 * git commit -am "Commit comments"
 * git push <git repo> <branch>
 
 ## Git Pulling steps:
-* git add <files/folders to push>
 * git pull <git repo> <branch>
 * git checkout <latest commit string> -> To pull the specified commit
 
