@@ -1,3 +1,5 @@
+https://travis-ci.org/tskvivekmani/my-react-app.svg?branch=master
+
 ## Git Pushing steps:
 * git add <files/folders to push>
 * git commit -am "Commit comments"
