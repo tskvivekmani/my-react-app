@@ -1,3 +1,14 @@
+## Git Pushing steps:
+* git add <files/folders to push>
+* git commit -am "Commit comments"
+* git push <git repo> <branch>
+
+## Git Pulling steps:
+* git add <files/folders to push>
+* git pull <git repo> <branch>
+* git checkout <latest commit string> -> To pull the specified commit
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
