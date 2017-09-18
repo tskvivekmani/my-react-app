@@ -4,7 +4,6 @@
 * git push <git repo> <branch>
 
 ## Git Pulling steps:
-* git add <files/folders to push>
 * git pull <git repo> <branch>
 * git checkout <latest commit string> -> To pull the specified commit
 
