@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Jumbotron, Button, ButtonGroup} from 'react-bootstrap';
+import {Jumbotron} from 'react-bootstrap';
 
 export default class Home extends Component {
     show(e){

@@ -1,6 +1,6 @@
 import React from 'react';
 import {Nav, Navbar, NavItem } from 'react-bootstrap';
-import {Link} from 'react-router-dom';
+//import {Link} from 'react-router-dom';
 
 /*Works but the selected tab is not activating
 {
