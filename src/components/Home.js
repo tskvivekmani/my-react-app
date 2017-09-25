@@ -14,9 +14,11 @@ export default class Home extends Component {
                     <h2>Site Under Construction</h2>
                     <h2>Thanks for your interest in TSK India Electronics</h2>
                     <p>Please visit our B2B page below </p>
-                    <p>
                     <hr/>
-                    <a style={{backgroundColor:'blue',color: 'yellow', padding: 20, borderRadius: 10, boxShadow: '1px 1px 10px #AFAFAF'}} target="#blank" href="https://www.tradeindia.com/Seller-7279522-TSK-INDIA-ELECTRONICS/product-services.html">
+                    <p>
+                    <a style={{backgroundColor:'#00a699',color: '#FFF', padding: 20, borderRadius: 10, boxShadow: '1px 1px 10px #AFAFAF'}}
+                        target="#blank"
+                        href="https://www.indiamart.com/tsk-india-electronics/">
                         Explore our products!!!
                     </a>
                     </p>
